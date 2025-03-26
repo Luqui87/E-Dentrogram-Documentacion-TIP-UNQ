@@ -1,6 +1,22 @@
-# E-Dentrogram-Documentacion-TIP-UNQ
+# E-Dentrogram - Documentación TIP UNQ
 
-[Repositorio Frontend](https://github.com/Luqui87/E-Dentrogram-Frontend-TIP-UNQ)
 
-[Repositorio Backend](https://github.com/Luqui87/E-Dentrogram-Backend-TIP-UNQ)
+## 📌 Repositorios del Proyecto
+- 🔹 [Frontend](https://github.com/Luqui87/E-Dentrogram-Frontend-TIP-UNQ)
+- 🔹 [Backend](https://github.com/Luqui87/E-Dentrogram-Backend-TIP-UNQ)
+
+---
+
+## 🎯 Descripción breve
+odontograma 
+
+---
+
+## 🛠 Tecnologías utilizadas
+
+- 🖥 **Frontend:** React, Vite
+- ⚙ **Backend:** Spring Boot, Kotlin, PostgreSQL
+- ☁ **Infraestructura:** Docker
+
+
 
