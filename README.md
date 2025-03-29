@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Descripción breve
-odontograma 
+Aplicación odontologica que permite tener un odontograma digital de cada paciente.
 
 ---
 
