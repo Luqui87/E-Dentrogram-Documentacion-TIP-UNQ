@@ -1,6 +1,6 @@
 # E-Dentrogram - Documentación TIP UNQ
 
-![Logo](https://github.com/Luqui87/E-Dentrogram-Documentacion-TIP-UNQ/blob/main/logo.png?raw=true)
+![Logo](https://github.com/Luqui87/E-Dentrogram-Documentacion-TIP-UNQ/blob/main/Logo.png?raw=true)
 
 ## 📌 Repositorios del Proyecto
 - 🔹 [Frontend](https://github.com/Luqui87/E-Dentrogram-Frontend-TIP-UNQ)
