@@ -21,5 +21,6 @@ Aplicación odontológica diseñada para que los profesionales de la odontologí
 
 ## 🚀Presentación Final
 - [Video Demo](https://vimeo.com/1100150831?share=copy)
+- [Presentación](https://github.com/Luqui87/E-Dentrogram-Documentacion-TIP-UNQ/blob/main/PresentacionFinal.pdf)
 
 
