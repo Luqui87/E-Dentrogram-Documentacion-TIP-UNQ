@@ -19,5 +19,7 @@ Aplicación odontológica diseñada para que los profesionales de la odontologí
 - ⚙ **Backend:** Spring Boot, Kotlin, PostgreSQL
 - ☁ **Infraestructura:** Docker
 
+## 🎯
+- 🚀 [Video Demo]([https://github.com/Luqui87/E-Dentrogram-Frontend-TIP-UNQ](https://vimeo.com/1100150831?share=copy))
 
 
