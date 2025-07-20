@@ -20,7 +20,7 @@ Aplicación odontológica diseñada para que los profesionales de la odontologí
 - ☁ **Infraestructura:** Docker
 
 ## 🚀Presentación Final
-- [Video Demo](https://vimeo.com/1100150831?share=copy)
+- [Video Demo]([https://vimeo.com/1100150831?share=copy](https://youtu.be/DI0NkRQQvtE))
 - [Presentación](https://github.com/Luqui87/E-Dentrogram-Documentacion-TIP-UNQ/blob/main/PresentacionFinal.pdf)
 
 
